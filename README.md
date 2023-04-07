@@ -6,30 +6,30 @@ Let's see how files are sorted on GitHub or any other platform you like.
 
 FYI.
 
-### 0x00 - 0x1F
+### 0x00-0x1F, 0x7F (DEL)
 
 Control characters
 
-### 0x20 - 0x2F
+### 0x20-0x2F
 
 Space, `!`, `"`, `#`, `$`, `%`, `&`, `'`, `(`, `)`, `*`, `+`, `,`, `-`, `.`, `/`
 
-### 0x30 - 0x3F
+### 0x30-0x3F
 
 0-9, `:`, `;`, `<`, `=`, `>`, `?`
 
-### 0x40 - 0x4F
+### 0x40-0x4F
 
 `@`, A-O
 
-### 0x50 - 0x5F
+### 0x50-0x5F
 
 P-Z, `[`, `\`, `]`, `^`, `_`
 
-### 0x60 - 0x6F
+### 0x60-0x6F
 
 `` ` ``, a-o
 
-### 0x70 - 0x7F
+### 0x70-0x7E
 
-p-z, `{`, `\|`, `}`, `~`, DEL
+p-z, `{`, `\|`, `}`, `~`
