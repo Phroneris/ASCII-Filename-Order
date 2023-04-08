@@ -20,8 +20,6 @@ Confirmed on Windows 10 Home 64-bit 22H2.
 
 ## GitHub
 
-See the [`invalid-on-Windows`](https://github.com/Phroneris/ASCII-Filename-Order/tree/invalid-on-Windows) branch for these files.
-
 <img src="etc/GitHub_2023-04-09.png" width="230" height="880" title="GitHub (Click for full size)">
 
 ### Sorting
