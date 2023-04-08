@@ -22,7 +22,7 @@ Confirmed on Windows 10 Home 64-bit 22H2.
 
 See the [`invalid-on-Windows`](https://github.com/Phroneris/ASCII-Filename-Order/tree/invalid-on-Windows) branch for these files.
 
-<img src="etc/GitHub_2023-04-08.png" width="230" height="880" title="GitHub (Click for full size)">
+<img src="etc/GitHub_2023-04-09.png" width="230" height="880" title="GitHub (Click for full size)">
 
 ### Sorting
 
@@ -46,7 +46,7 @@ When you "Create new file" on GitHub,
   error: unable to create file |a: Invalid argument
   ```
 
-Confirmed on Google Chrome 111.0 on 2023-04-08.
+Confirmed on Google Chrome 111.0 on 2023-04-09.
 
 ## Other OS
 
